@@ -39,6 +39,8 @@ Synopsis
 
 ```nginx
 # key must be of 32 bytes long
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fencrypted-session-nginx-module.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fencrypted-session-nginx-module?ref=badge_shield)
+
 encrypted_session_key "abcdefghijklmnopqrstuvwxyz123456";
 
 # iv must not be longer than 16 bytes
@@ -366,3 +368,7 @@ See Also
 
 [Back to TOC](#table-of-contents)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fencrypted-session-nginx-module.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fencrypted-session-nginx-module?ref=badge_large)
